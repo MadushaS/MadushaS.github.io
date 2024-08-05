@@ -17,7 +17,7 @@
     "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@sanity/image-url": "^1.0.2",
-    "@sanity/vision": "^3.50.0",
+    "@sanity/vision": "^3.52.4",
     "@tailwindcss/typography": "^0.5.13",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
